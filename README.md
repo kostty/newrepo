@@ -1,8 +1,6 @@
-# newrepo
-## this is a new repo  created on
-### 16/10/15
-  No name or content has been added so far   
-but expected topics are:
-* topic 1
-* topic 2
-* topic 3
+# "newrepo"
+## This is a new repo created on
+### 24/12/16
+ This is going to be a base of the repository for the new product.
+ 
+ Stay tuned!
