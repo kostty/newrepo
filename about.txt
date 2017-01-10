@@ -1,2 +1,8 @@
 # This file is going to list 'about' info
-# to be filled in
+
+Adding some description on it:
+  * Intro
+  * Body
+  * Ending
+
+
