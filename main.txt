@@ -1,2 +1,5 @@
 # this file is going to hold the main code
 # and contain references to other files
+
+echo "Start procedure"
+exit 0
